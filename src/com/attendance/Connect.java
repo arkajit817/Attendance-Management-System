@@ -8,6 +8,8 @@ import java.util.Properties;
 
 public class Connect {
 	
+
+	//Hey this is for testing purpose
 	public Connection  getConnection(){
 		
 		Properties props=new Properties();
