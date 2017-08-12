@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:23:46:58 +0530] "GET /MavenLast HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:23:46:59 +0530] "GET /MavenLast/ HTTP/1.1" 200 57 http-bio-8080-exec-3 1274
+127.0.0.1 - - [02/Aug/2017:23:55:45 +0530] "GET /MavenLast HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [02/Aug/2017:23:55:45 +0530] "GET /MavenLast/ HTTP/1.1" 200 787 http-bio-8080-exec-2 758

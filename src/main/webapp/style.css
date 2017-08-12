@@ -1,0 +1,80 @@
+body{
+background-color:#e8f3f8;
+
+
+}
+h1{
+text-align: center;
+font-size: 50px;
+color: steelblue;
+
+}
+h3{
+/*text-align: center;*/
+font-size: 50px;
+color: steelblue;
+
+}
+
+
+form{
+margin: 20px auto;
+width: 320 px;
+color: steelblue;
+text-align: center;
+
+
+
+}
+/*
+form  { display: table; margin: auto;color: steelblue;     }
+*/
+	p     { display: table-row;  }
+	label { display: table-cell; }
+	input { display: table-cell; }
+
+
+input{
+padding: 10px;
+font-size: inherit;
+align: "center"";
+}
+
+input[type="text"]{
+display: block;
+margin-bottom: 25px;
+width:40%;
+border: 2px solid steelblue;
+align: "center";
+text-align: center;
+
+
+}
+input[type="password"]{
+display: block;
+margin-bottom: 25px;
+width:40%;
+border: 2px solid steelblue;
+
+}
+
+input[type="email"]{
+display: block;
+margin-bottom: 25px;
+width:40%;
+border: 2px solid steelblue;
+
+}
+
+
+input[type="submit"]{
+width: 344px;
+height: 45px;
+border: none;
+background: steelblue;
+color: white;
+
+
+
+}
+
